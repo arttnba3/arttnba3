@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :book: Student from Xidian University
+- :books: Student from Xidian University
 - :computer: Focus on binary security, mainly the Linux Kernel​
-- :cloud: Baby pwner of L-team@XDSEC​ 
+- :white_circle:​ Baby pwner of L-team@XDSEC​ 
 - :hammer: Creator of a bit of C & C++
-- :books:​ My blog [arttnba3.cn](https://arttnba3.cn)
+- :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
 - :e-mail: Contact me at [1543127579@qq.com](mailto:1543127579@qq.com)
