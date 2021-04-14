@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - :books: Student from Xidian University
-- :computer: Focus on binary security, mainly the Linux Kernel​
+- :computer: Focus on binary security
 - :white_circle:​ Baby pwner of L-team@XDSEC​ 
 - :hammer: Creator of a bit of C & C++
 - :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
