@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arttnba3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello from arttnba3~ 👋
 
 <!--
 **arttnba3/arttnba3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :
+- :orange_book:  Student from Xidian University
+- :computer: Focus on binary security, mainly the Linux Kernel​
+- :cloud: Baby pwner of L-team@XDSEC​ 
+- :hammer: Creator of a bit of C & C++
+- :e-mail: [1543127579@qq.com](mailto:1543127579@qq.com)
