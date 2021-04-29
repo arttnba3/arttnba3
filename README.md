@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - :books: Student from Xidian University
 - :computer: Focus on binary security
 - :white_circle:​ Baby pwner of [L-team](http://www.l-team.org/)@[XDSEC](https://www.xdsec.org)
-- :hammer: Creator of a bit of X86 Assembly & C & C++
+- :hammer: ~~Trash~~ Creator of a bit of X86 Assembly & C & C++ & Java
 - :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
 - :e-mail: Contact me at [1543127579@qq.com](mailto:1543127579@qq.com)
