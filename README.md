@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - :books: Student from Xidian University
-- :computer: Focus on binary security, majoring Linux kernel
+- :computer: Bytedance IaaS developer intern
 - :white_circle:​ Baby pwner of [L-team](http://www.l-team.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
