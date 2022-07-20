@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - :books: Student from Xidian University
 - :computer: Bytedance IaaS developer intern
+- :older_man: Binary Security lover, majoring Linux kernel now
 - :white_circle:​ Baby pwner of [L-team](http://www.l-team.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
-- :e-mail: Contact me at [1543127579@qq.com](mailto:1543127579@qq.com)
+- :e-mail: Contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com)
