@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :books: Student from Xidian University
 - :older_man: Computer Science lover, majoring System Security now :)
-- :tophat: Security Researcher of [NSCLab- System Security Group](http://nsclab.org/syssec/)@[Swinburne](https://www.swinburne.edu.au/)
+- :tophat: Security Researcher of [NSCLab](http://nsclab.org/syssec/)@[Swinburne](https://www.swinburne.edu.au/)
 - :white_circle:​ Baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :cloud:​ My blog [arttnba3.cn](https://arttnba3.cn)
