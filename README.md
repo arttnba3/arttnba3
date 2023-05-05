@@ -1,6 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arttnba3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ### Hello from arttnba3~ 👋
+
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=arttnba3&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> | <a href="https://github.com/arttnba3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arttnba3&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a> |
+| ------------- | ------------- |
 
 <!--
 **arttnba3/arttnba3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
