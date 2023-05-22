@@ -1,6 +1,6 @@
 ## Hello from arttnba3~ 👋
 
-| Binary Security Enthusiast | System Security | CTF Pwner@[L-team](https://l.xdsec.org/) | INTP-T |
+| Binary Security Enthusiast | System Security Researcher | CTF Pwner@[L-team](https://l.xdsec.org/) | INTP-T |
 | ------------- | ------------- | ------------- | ------------- |
 
 |  ![arttnba3's Guthub Stats](https://github-readme-stats-three-snowy-60.vercel.app/api?username=arttnba3&show_icons=true&hide_border=true&icon_color=1AB1C1&text_color=42BFCC&bg_color=ffffff) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=arttnba3&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css) |
@@ -24,9 +24,9 @@
 ## More info...🤔
 
 - :books: I'm currently an undergrade student in [SCE](https://ce.xidian.edu.cn) of Xidian University.
-- :older_man: Computer Science lover, majoring System Security now :)
-- :tophat: Security Researcher of [NSCLab](http://nsclab.org/syssec/)@[Swinburne](https://www.swinburne.edu.au/)
-- :white_circle:​ Baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
+- :older_man: Computer science lover, majoring System Security now :)
+- :tophat: Security researcher and incoming PhD student of [NSCLab](http://nsclab.org/syssec/)@[Swinburne](https://www.swinburne.edu.au/)
+- :ninja:​ Baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :cloud:​ My blog: [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
