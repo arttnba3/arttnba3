@@ -15,7 +15,7 @@
 
 #### Programming Skill 👨‍💻
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Java-DA1E21?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 #### Pwning Skill 🥷
 
@@ -26,9 +26,9 @@
 - :books: I'm currently an undergrade student in [SCE](https://ce.xidian.edu.cn) of Xidian University.
 - :older_man: Computer science lover, majoring System Security now :)
 - :tophat: Security researcher and incoming PhD student of [NSCLab](http://nsclab.org/syssec/)@[Swinburne](https://www.swinburne.edu.au/)
-- :ninja:​ Baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
+- :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
-- :cloud:​ My blog: [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
+- :cloud:​ My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
 - :arrows_counterclockwise: I'll follow you back if your Github can let me know who you are explicitly : ) 
 
