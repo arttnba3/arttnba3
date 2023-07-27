@@ -23,7 +23,7 @@
 
 ## More info...🤔
 
-- :books: Security researcher and incoming PhD student of [NSCLab](http://nsclab.org/syssec/)@[SUT](https://www.swinburne.edu.au/)
+- :books: Security researcher and PhD student of [NSCLab](http://nsclab.org/syssec/)@[SUT](https://www.swinburne.edu.au/)
 - :older_man: Computer science lover, majoring System Security now :)
 - :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/)@[XDSEC](https://www.xdsec.org)
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
