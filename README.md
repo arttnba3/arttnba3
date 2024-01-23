@@ -23,7 +23,7 @@
 
 #### Pwning Skill 🥷
 
-![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black)
+![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black) ![](https://img.shields.io/badge/Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## More info...🤔
 
