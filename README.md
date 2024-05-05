@@ -17,7 +17,10 @@
 
 <!--https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora&logoColor=white-->
 
-![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![](https://img.shields.io/badge/Intel-i9_13980HX-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![](https://img.shields.io/badge/狂った木曜日-F40027?style=for-the-badge&logo=kfc&logoColor=white)
+- `My OS`:   ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white) ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- `My Hardware`:   ![](https://img.shields.io/badge/Intel-i9_13980HX-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+- `My Love`:   ![](https://img.shields.io/badge/狂った木曜日-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
 #### Programming Skill 👨‍💻
 
@@ -34,7 +37,7 @@
 - :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org)
 - :thinking: One of current maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
-- :tophat: Got my bachelor's degree of `Cyberspace Security` from [SCE](https://ce.xidian.edu.cn)@[XDU](https://en.xidian.edu.cn/).
+- :tophat: Got my bachelor's degree of `Cyberspace Security` from [SCE](https://ce.xidian.edu.cn) @ [XDU](https://en.xidian.edu.cn/).
 - :cloud:​ My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
 - :arrows_counterclockwise: I'll follow you back if your Github can let me know who you are explicitly : ) 
