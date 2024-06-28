@@ -19,7 +19,8 @@
 
 - `My OS`:   ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white) ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - `My Hardware`:   ![](https://img.shields.io/badge/Intel-i9_13980HX-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/Surface-Laptop_5-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
-- `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+- `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 - `My Love`:   ![](https://img.shields.io/badge/狂った木曜日-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
 #### Programming Skill 👨‍💻
@@ -28,7 +29,7 @@
 
 #### Pwning Skill 🥷
 
-![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black) ![](https://img.shields.io/badge/Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/glibc-F8F8F8?style=for-the-badge&logo=gnu&logoColor=black) ![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black) ![](https://img.shields.io/badge/Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## More info...🤔
 
