@@ -5,7 +5,7 @@
 | Computer Science Enthusiast | Binary Security Researcher | retired CTF Pwner@[L-team](https://l.xdsec.org/) | INTP-T |
 | ------------- | ------------- | ------------- | ------------- |
 
-|  ![arttnba3's Guthub Stats](https://github-readme-stats-three-snowy-60.vercel.app/api?username=arttnba3&show_icons=true&hide_border=true&icon_color=1AB1C1&text_color=42BFCC&bg_color=ffffff) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=arttnba3&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css) |
+|  ![arttnba3's Guthub Stats](https://github-readme-stats.vercel.app/api?username=arttnba3&show_icons=true&hide_border=true&icon_color=1AB1C1&text_color=42BFCC&bg_color=ffffff&theme=vue) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=arttnba3&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css) |
 | ------------- | ------------- |
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arttnba@gmail.com) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
