@@ -19,7 +19,7 @@
 
 <!--https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora&logoColor=white-->
 
-- `My OS`:   ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white) ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- `My OS`:   ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white)  ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - `My Hardware`:   ![](https://img.shields.io/badge/ASUS-Vivobook_K6604JV-00539b?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Surface-Laptop_5-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
 - `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
