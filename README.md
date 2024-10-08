@@ -31,7 +31,9 @@
 
 #### Hacking & Pwning Skill 🥷
 
-![](https://img.shields.io/badge/glibc-F8F8F8?style=for-the-badge&logo=gnu&logoColor=black) ![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black) ![](https://img.shields.io/badge/Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/glibc-F8F8F8?style=for-the-badge&logo=gnu&logoColor=black) ![](https://img.shields.io/badge/Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=black) 
+
+<!--![](https://img.shields.io/badge/Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white)-->
 
 ## More info...🤔
 
@@ -41,6 +43,7 @@
 - :thinking: One of current maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :tophat: Got my bachelor's degree of `Cyberspace Security` from [SCE](https://ce.xidian.edu.cn) @ [XDU](https://en.xidian.edu.cn/).
+- :tophat: Got my bachelor's degree(honours) of `Computer Science` from [SoSCET](https://www.swinburne.edu.au/about/our-structure/organisational-structure/schools-departments/school-science-computing-engineering-technologies/) @ [SUT](https://www.swinburne.edu.au/).
 - :cloud:​ My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
 - :arrows_counterclockwise: I'll follow you back if your Github can let me know who you are explicitly : ) 
