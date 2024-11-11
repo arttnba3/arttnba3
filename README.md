@@ -46,7 +46,7 @@
 - :tophat: Got my bachelor's degree(honours) of `Computer Science` from [SoSCET](https://www.swinburne.edu.au/about/our-structure/organisational-structure/schools-departments/school-science-computing-engineering-technologies/) @ [SUT](https://www.swinburne.edu.au/).
 - :cloud:​ My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
-- :arrows_counterclockwise: I'll follow you back if your Github can let me know who you are explicitly : ) 
+- :arrows_counterclockwise: I'll follow you back (not always in time) if your Github can let me know who you are explicitly : )
 
 
 <!--
