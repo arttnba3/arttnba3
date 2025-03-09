@@ -9,7 +9,7 @@
 | ------------- | ------------- |
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arttnba@gmail.com) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/arttnba3) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arttnba3) [![](https://img.shields.io/badge/blog-brightgreen?style=for-the-badge&logo=redhat&logoColor=white)](https://arttnba3.cn) [![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://arttnba3.cn/atom.xml)
+)](https://github.com/arttnba3) [![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arttnba3) [![](https://img.shields.io/badge/blog-brightgreen?style=for-the-badge&logo=redhat&logoColor=white)](https://arttnba3.cn) [![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://arttnba3.cn/atom.xml)
 
 
 
@@ -19,7 +19,7 @@
 
 <!--https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora&logoColor=white-->
 
-- `My OS`:   ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white)  ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- `My OS`:   ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white)  ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=apple&logoColor=white)
 - `My Hardware`:   ![](https://img.shields.io/badge/ASUS-Vivobook_K6604JV-00539b?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Surface-Laptop_5-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
 - `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -27,7 +27,7 @@
 
 #### Programming Skill 👨‍💻
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=coffeescript&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 #### Hacking & Pwning Skill 🥷
 
