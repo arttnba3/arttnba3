@@ -37,7 +37,7 @@
 
 ## More info...🤔
 
-- :books: PhD student of [NSCLab](http://nsclab.org/nuwa/) @ [SUT](https://www.swinburne.edu.au/), supervised by [Professor Yang Xiang](https://nsclab.org/yang/).
+- :books: PhD student of [NSCLab](http://nsclab.org/nuwa/) @ [SUT](https://www.swinburne.edu.au/), co-supervised by [Professor Yang Xiang](https://nsclab.org/yang) and [Professor Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen).
 - :older_man: Computer science lover, majoring `System Security` now :)
 - :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org)
 - :thinking: One of current maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
