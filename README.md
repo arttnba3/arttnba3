@@ -20,14 +20,14 @@
 <!--https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora&logoColor=white-->
 
 - `My OS`:   ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white)  ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=apple&logoColor=white)
-- `My Hardware`:   ![](https://img.shields.io/badge/ASUS-Vivobook_K6604JV-00539b?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Surface-Laptop_5-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
+- `My Hardware`:   ![](https://img.shields.io/badge/DELL-Pro_MAX_16_PREMIUM_MA16250-0672CB?style=for-the-badge&logo=dell&logoColor=white) ![](https://img.shields.io/badge/Surface-Laptop_5-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
 - `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 - `My Love`:   ![](https://img.shields.io/badge/狂った木曜日-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
 #### Programming Skill 👨‍💻
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=coffeescript&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=coffeescript&logoColor=white) ![](https://img.shields.io/badge/X86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 #### Hacking & Pwning Skill 🥷
 
@@ -37,10 +37,10 @@
 
 ## More info...🤔
 
-- :books: PhD student of [NSCLab](http://nsclab.org/nuwa/) @ [SUT](https://www.swinburne.edu.au/), co-supervised by [Professor Yang Xiang](https://nsclab.org/yang) and [Professor Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen).
+- :books: PhD student of [NSCLab](http://nsclab.org/nuwa/) @ [SUT](https://www.swinburne.edu.au/), co-supervised by [Professor Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen) and [Professor Yang Xiang](https://nsclab.org/yang).
 - :older_man: Computer science lover, majoring `System Security` now :)
 - :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org)
-- :thinking: One of current maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
+- :thinking: One of current active maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :tophat: Got my bachelor's degree of `Cyberspace Security` from [SCE](https://ce.xidian.edu.cn) @ [XDU](https://en.xidian.edu.cn/).
 - :tophat: Got my bachelor's degree(honours) of `Computer Science` from [SoSCET](https://www.swinburne.edu.au/about/our-structure/organisational-structure/schools-departments/school-science-computing-engineering-technologies/) @ [SUT](https://www.swinburne.edu.au/).
