@@ -2,7 +2,7 @@
 
 [Buy me a coffee, please...! 🥺🥺🥺](https://www.buymeacoffee.com/arttnba3)
 
-| Tencent Qingyun Project Researcher @ Tencent Cloud (Virtualization) | Systems / Virtualization / System Security Lover | Half-Stack Developer | retired CTF Pwner@[L-team](https://l.xdsec.org/) & [El3ctronic](https://ctftime.org/team/266401/) | INTP-T |
+| Tencent Qingyun Project Intern @ Tencent Cloud (Virtualization Team) | Systems / Virtualization / System Security Lover | Half-Stack Developer | retired CTF Pwner @ [L-team](https://l.xdsec.org/) & [El3ctronic](https://ctftime.org/team/266401/) | INTP-T |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 |  ![arttnba3's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=arttnba3&show_icons=true&hide_border=true&icon_color=1AB1C1&text_color=42BFCC&bg_color=ffffff&theme=vue) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=arttnba3&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css) |
@@ -15,8 +15,8 @@
 #### Workspace Environment 💻
 
 - `My OS`:   ![](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=Gentoo&logoColor=white)  ![](https://img.shields.io/badge/openSUSE_Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)  ![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=apple&logoColor=white)
-- `My Hardware`:   ![](https://img.shields.io/badge/DELL-Pro_MAX_16_PREMIUM_MA16250-0672CB?style=for-the-badge&logo=dell&logoColor=white) ![](https://img.shields.io/badge/Surface-Pro_8-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
-- `My Editor`:   ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+- `My Hardware`:  ![](https://img.shields.io/badge/Surface-Pro_8-88c17b?style=for-the-badge&logo=microsoft&logoColor=white)
+- `My Editor`:  ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 - `My Love`:   ![](https://img.shields.io/badge/狂った木曜日-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
@@ -32,7 +32,7 @@
 
 ## More info...🤔
 
-- :computer: Virtualization researcher @ [Tencent Cloud](https://cloud.tencent.com) (Tencent Qingyun Project)
+- :computer: Current virtualization researcher @ [Tencent Cloud](https://cloud.tencent.com) (Tencent Qingyun Project)
 - :books: Burnout PhD student @ [SUT](https://www.swinburne.edu.au/), as I lost who I am in academia. This is my fault, but the time just goes. I'm out.
 - :older_man: Computer science lover, used to have a relationship with `System Security`, but majoring `System Virtualization` now :)
 - :ninja: Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org) and [El3ctronic](https://ctftime.org/team/266401/) @ [D^3CTF](https://github.com/D-3CTF)
